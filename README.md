@@ -251,7 +251,7 @@ GROUP BY category;
 
 ---
 
-## 🔟 Create each shift and calculate the number of orders
+## 🔟 Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17)
 
 ### Shift Logic
 
@@ -329,7 +329,7 @@ SQL Retail Sales Analysis
 
 # 👨‍💻 Author
 
-**Udit Goyal**
+**Udit Gupta**
 
 Aspiring Data Analyst
 
