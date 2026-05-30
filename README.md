@@ -218,6 +218,6 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 ### Stay Updated and Join the Community
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/udit-gupta-7a69102b2)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/udit-gupta-7a69102b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfokiQAWLTKCN7ibklxjFBA%3D%3D)
 
 Thank you for your support, and I look forward to connecting with you!
